@@ -1,0 +1,4 @@
+name: Apartments
+version: '${project.version}'
+main: me.stephenminer.apartments.Apartments
+api-version: '1.21'
